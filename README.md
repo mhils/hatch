@@ -15,7 +15,7 @@
 
 -----
 
-Hatch is a modern, extensible Python project manager.
+Hatch is a modern, extensible Python project manager!
 
 ## Features
 
